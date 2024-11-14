@@ -13,3 +13,8 @@ So they're horizontal.
 
 But to start with, on medium screens, they're going to be in a column.
 So they're going to be one on top of each other stacked.
+
+2. Pricing-cards
+We basically have three columns with some information.
+This could be like a host hosting packages or something like that, and they're going to be in a row
+on medium and larger screens, but on smaller screens they're going to stack like this.
